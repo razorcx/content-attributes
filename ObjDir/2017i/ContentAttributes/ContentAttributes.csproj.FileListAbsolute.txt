@@ -1,0 +1,15 @@
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\ContentAttributes.exe.config
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\ContentAttributes.exe
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\ContentAttributes.pdb
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\MoreLinq.dll
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\Newtonsoft.Json.dll
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\System.ValueTuple.dll
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\MoreLinq.xml
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\Newtonsoft.Json.xml
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ContentAttributes\bin\Debug\System.ValueTuple.xml
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ObjDir\2017i\ContentAttributes\ContentAttributes.csprojAssemblyReference.cache
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ObjDir\2017i\ContentAttributes\ContentAttributes.exe.config
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ObjDir\2017i\ContentAttributes\ContentAttributes.csproj.CoreCompileInputs.cache
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ObjDir\2017i\ContentAttributes\ContentAttributes.csproj.CopyComplete
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ObjDir\2017i\ContentAttributes\ContentAttributes.exe
+c:\users\corytekla\documents\visual studio 2017\Projects\ContentAttributes\ObjDir\2017i\ContentAttributes\ContentAttributes.pdb
